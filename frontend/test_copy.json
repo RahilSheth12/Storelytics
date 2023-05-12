@@ -1,0 +1,74 @@
+[
+    {
+        "key" : 1,
+        "id" : 1,
+        "time_in" : "8/03/2022 10:45 PM",
+        "time_out" : "8/03/2022 11:46 PM",
+        "gender": "Man",
+        "race" : "indian",
+        "emotion": "angry"
+    },
+    {
+        "key" : 2,
+        "id" : 2,
+        "time_in" : "8/03/2022 9:38 PM",
+        "time_out" : "8/03/2022 8:42 PM",
+        "gender": "Man",
+        "race" : "black",
+        "emotion": "happy"
+    },
+    {
+        "key" : 3,
+        "id" : 3,
+        "time_in" : "8/03/2022 10:38 PM",
+        "time_out" : "8/03/2022 10:45 PM",
+        "gender": "Woman",
+        "race" : "indian",
+        "emotion": "angry"
+    },
+    {
+        "key" : 4,
+        "id" : 4,
+        "time_in" : "8/03/2022 11:38 PM",
+        "time_out" : "8/03/2022 8:48 PM",
+        "gender": "Woman",
+        "race" : "asian",
+        "emotion": "angry"
+    },
+    {
+        "key" : 5,
+        "id" : 5,
+        "time_in" : "8/03/2022 12:38 PM",
+        "time_out" : "8/03/2022 2:50 PM",
+        "gender": "Woman",
+        "race" : "middle eastern",
+        "emotion": "angry"
+    },
+    {
+        "key" : 6,
+        "id" : 6,
+        "time_in" : "8/03/2022 1:38 PM",
+        "time_out" : "8/03/2022 1:50 PM",
+        "gender": "Man",
+        "race" : "middle eastern",
+        "emotion": "angry"
+    },
+    {
+        "key" : 7,
+        "id" : 7,
+        "time_in" : "8/03/2022 10:38 PM",
+        "time_out" : "8/03/2022 10:50 PM",
+        "gender": "Woman",
+        "race" : "white",
+        "emotion": "angry"
+    },
+    {
+        "key" : 8,
+        "id" : 8,
+        "time_in" : "8/01/2022 9:38 PM",
+        "time_out" : "8/01/2022 9:50 PM",
+        "gender": "Woman",
+        "race" : "white",
+        "emotion": "angry"
+    }
+]
