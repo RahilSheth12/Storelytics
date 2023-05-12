@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "storelytics-app",
+  "private_key_id": "ba6e54a7adaaa04b84ebf2f56d1bb7af8ead7ce1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+RIu6wd3stbze\naBFw1qymPKNpm/CG7HfefmQNWVl4369joSpvZGfl6l05BmVhPTigICrcjAGlY5mM\nNjEhlXJtxSVOX3KIF5XRl/85cmR/enTkDy9O1aWcHaVrbiG612x8nV8EBzXPt8dJ\nmkjlZRi3weczBhkBp70Wvn5IGam39J9ZZwiFIqHWZOCZGKgglFbDTsF7CElwRfkb\nEels01/MdHPGWbbSF+jIcwWE5AmATgS3LBV3Kz0MgQw6hu9HbUUGqluL0UeSHcKd\njch2bXs8Kva4uPUCAhi+knR4HjFvuqMglPkYpSu/rls9+3HTmKAVtvdR/93Lrmp7\nbWOR32iNAgMBAAECggEAA1mtpDI5uCtTEg9/Dx+YlqzGq9tlFtsfGTnchSennatC\nqVxzJNb9xVylG5XzPw0W7Crk1lFYzhK8520k3FSHWUt5ZrHjkGXp63Dju506C8ya\nNlHWIWs9qUwUV5nu2h1k+aTDwYxm9CtmRPOEiRWIo+O0MH/Q/Oh5OedMzfQ1utl6\nFUYoyJC9/0UkB6cjt1iBRTRsj7tmAJXstHFma0iPgps8pgSMpdTexuUq9R+AAAJd\nwsEHCGFOporz+EvTKHr+obB/2P8iXC/ISkCCTrUD0YyWGqosFAvh/cotgJ2n0BjG\nBTsfMXNOFo7mr9Y+zmom+J4Otht2nXF/+jFlAx6fwQKBgQDmVS0E7QPgUHU+DX9G\nx1nJqqdjH7tX9mrLKJ0boL2ZZROjvI9L8c6gtoNanKoXJVCxA22b5aCha3RZ1nim\nqtywG0F1zaFfosGTbLnIhjo9/23aeqq+CgRdQ5o5F0w6B0AEIBwi+Dgwb0Ml9+LF\nm6voDx47j1BMOci3vfKPJG19mQKBgQDTeGpcnKmATOSyyQKrxzX6TfZk+iUST7ks\niNaqJtIpFZOOijDCMgd7lptm9eD2dRXHsjz4Jac31e9M9L02WmxlvQRJPNwxvE5T\nHudltqw+4wbWTtqVbD4OhSL7UCW5ytg12Z50ZDKE4isK9gc6DDtiq2pL6wV7L2BH\n4gAbvrfTFQKBgQCIltoroaI603uzYK2pe25zeQ/qaFbgwvBxqZQBXkERRi9vWdJg\nZvTxuUoL4fu73hUL48yMNpAbKW3GGLlTnN9iT8dx5I9d91Zz5nYFxBOl0GOEvFmk\neKw94mkCkh5SCxqbV69XzXsEvfZD/cwtAzPeWZjEGSi1C09MJwhAeomzgQKBgGIg\nz2I4RCNICxu3UOj7IN4MjVhgBxHPMsMqoEoGh6EO5RDQqT2Dz5sW0PffAsv6mue2\nmrofZs/vEwMn0iFFpmUzZ6jAeAEQO1wwy/mT4auw13xczOtndghw2UG6+DaVnOyo\nFfI2iIbHGGgWsFXMVUY8+q9N2JZH7qqMgbZeMpjdAoGAbVlEEygiY1i/gKKBQjfS\n86wFCO4HzLNY1wafq+Fh8kp41u/wkOFEyAhDerjSZV3NEUAWw3uLtyyy3kI3kl5C\nIelkj5I29F8Rc3IuksWmZrEKKWVawmPIoNpxDwRHpuVwKK399Tht697CQx4ZkuXE\nwogz7lel+AtTDXTE8bopFOA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-szpm5@storelytics-app.iam.gserviceaccount.com",
+  "client_id": "103951198880432485852",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-szpm5%40storelytics-app.iam.gserviceaccount.com"
+}
